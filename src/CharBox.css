@@ -1,0 +1,10 @@
+.char{
+    display: flex;
+    content: space-between;
+    gap : 1rem;
+}
+.CharBox{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 1rem;
+}
